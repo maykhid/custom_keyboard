@@ -53,7 +53,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: AppBar(title: const Text('Custom Keyboard')),
       body: SafeArea(
           child: Column(
         mainAxisAlignment: MainAxisAlignment.start,
