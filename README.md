@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-This is a simple app that shows you how to create your own custom keyboard in Flutter <a href="https://azure.microsoft.com/en-us/services/cognitive-services/translator/#overview" target="_blank"> You can read my Medium article about this here.</a> Reading the article explains everyting in full detail.
+This is a simple app that shows you how to create your own custom keyboard in Flutter <a href="https://medium.com/@henryifebunandu/create-custom-keyboard-for-your-flutter-app-20926a0aaf19" target="_blank"> You can read my Medium article about this here.</a> Reading the article explains everyting in full detail.
 
 ## :sparkles: Features ##
 
